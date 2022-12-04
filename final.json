@@ -1,0 +1,16 @@
+[
+    {
+        "id": 5,
+        "grupo": "C",
+        "rodada": 1,
+        "diaSemana": "TER",
+        "data": "22/11/2022",
+        "hora": "07:00",
+        "estadio": "NACIONAL DE LUSAIL",
+        "gols_mandante": "1",
+        "partida": "ARG x ARA",
+        "gols_visitante": "2",
+        "mandante": "argentina.png",
+        "visitante": "arabia-saudita.png"
+    }
+]

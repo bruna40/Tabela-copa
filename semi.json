@@ -1,0 +1,58 @@
+[
+    {
+        "id": 5,
+        "grupo": "C",
+        "rodada": 1,
+        "diaSemana": "TER",
+        "data": "22/11/2022",
+        "hora": "07:00",
+        "estadio": "NACIONAL DE LUSAIL",
+        "gols_mandante": "1",
+        "partida": "ARG x ARA",
+        "gols_visitante": "2",
+        "mandante": "argentina.png",
+        "visitante": "arabia-saudita.png"
+    },
+    {
+        "id": 6,
+        "grupo": "D",
+        "rodada": 1,
+        "diaSemana": "TER",
+        "data": "22/11/2022",
+        "hora": "10:00",
+        "estadio": "CIDADE DA EDUCAÇÃO",
+        "gols_mandante": "0",
+        "partida": "DIN x TUN",
+        "gols_visitante": "0",
+        "mandante": "dinamarca.png",
+        "visitante": "tunisia.png"
+    },
+    {
+        "id": 7,
+        "grupo": "C",
+        "rodada": 1,
+        "diaSemana": "TER",
+        "data": "22/11/2022",
+        "hora": "13:00",
+        "estadio": "PORTO DE DOHA",
+        "gols_mandante": "0",
+        "partida": "MEX x POL",
+        "gols_visitante": "0",
+        "mandante": "mexico.png",
+        "visitante": "polonia.png"
+    },    
+    {
+        "id": 8,
+        "grupo": "D",
+        "rodada": 1,
+        "diaSemana": "TER",
+        "data": "22/11/2022",
+        "hora": "16:00",
+        "estadio": "AL WAKRAH",
+        "gols_mandante": "4",
+        "partida": "FRA x AUS",
+        "gols_visitante": "1",
+        "mandante": "franca.png",
+        "visitante": "australia.png"
+    }
+]
